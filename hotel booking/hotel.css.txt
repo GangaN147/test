@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container-home {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.textcard-home {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.heading-home {
+    font-family: "bree serif";
+    font-size: 20px;
+    font-weight: bold;
+    color: #f19116;
+    padding: 2px;
+    margin: 10px;
+}
+
+.para-home {
+    font-family: "bree serif";
+    font-size: 15px;
+    color: #6c6b70;
+    padding: 2px;
+}
+
+.button-home {
+    color: #ffffff;
+    background-color: #f19116;
+    border-width: 0px;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    padding: 2px;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.bg-container-selectpage {
+    background-color: #222222;
+    height: 100vh;
+    background-size: cover;
+    padding: 10px;
+}
+
+.flat-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 10px;
+    width: 80vw;
+    height: 120px;
+}
+
+.card-image {
+    width: 20vw;
+}
+
+.cards-text {
+    text-align: left;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+.cards-heading {
+    font-family: "Bree serief";
+    font-size: 20px;
+    font-weight: bold;
+    color: #0f0e46;
+}
+
+.cards-para {
+    font-family: "Bree serief";
+    font-size: 12px;
+    color: #6c6b70;
+}
+
+.img-descript {
+    width: 100vw;
+    background-size: cover;
+}
+
+.descript-container {
+    background-color: #222222;
+    padding: 10px;
+}
+
+.location-img {
+    width: 30px;
+}
+
+.desript-text {
+    font-family: "bree serif";
+    font-size: 15px;
+    color: #ffffff;
+    padding: 2px;
+    margin: 10px;
+}
